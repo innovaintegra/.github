@@ -1,0 +1,18 @@
+name: Auto Add to Global Project
+
+on:
+  issues:
+    types: [opened, reopened]
+
+jobs:
+  add-to-project:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add Issue to Project
+        uses: actions/add-to-project@v1
+        with:
+          # The full URL of your global project board
+          project-url: https://github.com
+          
+          # A Personal Access Token (PAT) with project write permissions
+          github-token: ${{ secrets.GLOBAL_PROJECT_PAT }}
