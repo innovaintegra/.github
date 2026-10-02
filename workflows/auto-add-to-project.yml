@@ -12,7 +12,7 @@ jobs:
         uses: actions/add-to-project@v1
         with:
           # The full URL of your global project board
-          project-url: https://github.com
+          project-url: https://github.com/orgs/innovaintegra/projects/16/views/1
           
           # A Personal Access Token (PAT) with project write permissions
           github-token: ${{ secrets.GLOBAL_PROJECT_PAT }}
