@@ -1,0 +1,6 @@
+{
+  "name": "Auto Add to Global Project",
+  "description": "Adds new issues and pull requests to the central organisation project.",
+  "iconName": "octicon project",
+  "categories": ["Automation"]
+}
