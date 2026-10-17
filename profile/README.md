@@ -23,7 +23,6 @@ We focus on novel and specialist applications of artificial intelligence that ha
 We are active in several collaborative research initiatives, including:
 
 - **iDT4GDC** — optimising resource usage in data centres for better energy use and efficiency.
-- **ULTIMATE** — an EU Horizon Europe project, joined as a full partner.
 - **AI4SWEng** — a Horizon Europe project applying AI across the software development lifecycle.
 
 New projects starting soon include **uPQComing** (post-quantum cryptography), **Truthaware** (social media analytics), and **Build-Bone** (bone health).
